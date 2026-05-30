@@ -12,7 +12,8 @@ pkg install python -y
 📥 Clone Repository
 
 git clone https://github.com/sumanthexplots/All_in_one.git
-cd all_in_one
+
+cd All_in_one
 
 ▶️ Run The Tool
 
